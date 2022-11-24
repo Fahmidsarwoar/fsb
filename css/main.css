@@ -1,0 +1,151 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+}
+
+
+
+.change:hover{
+    color: orangered;
+    text-decoration: underline;
+
+  
+}
+.change{
+    color: black;
+    text-decoration: none;
+}
+.dollar{
+    color: orangered;
+}
+.btn1:hover{
+      background-color: #3B71CA;
+}
+.btn2:hover{
+    color: black;
+
+}
+img{
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+.textcolour{
+    background-color: #3B71CA;
+}
+
+  
+.animation1 {width: 100px;
+height: 100px;
+background-color: white;
+animation-name: example;
+animation-duration: 7s;
+animation-delay: -3s;
+}
+
+@keyframes example {
+20%   {background-color:red; centert:0px; top:0px;}
+40%  {background-color:yellow; center:200px; top:0px;}
+60%  {background-color:blue; center:200px; top:0px;}
+70%  {background-color:green; center: 200px; top:0px;}
+ 80% {background-color: orange;  center:200px; top:0px;}
+95%  {background-color:azure; center:200px; top:0px;}
+100%  {background-color: violet; center:200px; top:0px;}
+}
+.animation2 {width: 100px;
+    height: 100px;
+    background-color: white;
+    position: relative;
+    animation-name: example;
+    animation-duration: 7s;
+    animation-delay: -3s;
+    }
+    
+    @keyframes example {
+    20%   {background-color:red; centert:0px; top:0px;}
+    40%  {background-color:yellow; center:200px; top:0px;}
+    60%  {background-color:blue; center:200px; top:0px;}
+    70%  {background-color:green; center: 200px; top:0px;}
+     80% {background-color: orange;  center:200px; top:0px;}
+    95%  {background-color:azure; center:200px; top:0px;}
+    100%  {background-color: violet; center:200px; top:0px;}
+    }
+    .animation3 {width: 100px;
+        height: 100px;
+        background-color: white;
+        position: relative;
+        animation-name: example;
+        animation-duration: 7s;
+        animation-delay: -3s;
+        }
+        
+        @keyframes example {
+        20%   {background-color:red; centert:0px; top:0px;}
+        40%  {background-color:yellow; center:200px; top:0px;}
+        60%  {background-color:blue; center:200px; top:0px;}
+        70%  {background-color:green; center: 200px; top:0px;}
+         80% {background-color: orange;  center:200px; top:0px;}
+        95%  {background-color:azure; center:200px; top:0px;}
+        100%  {background-color: violet; center:200px; top:0px;}
+        }
+        .animation4 {width: 100px;
+            height: 100px;
+            background-color: white;
+            position: relative;
+            animation-name: example;
+            animation-duration: 7s;
+            animation-delay: -3s;
+            }
+            
+            @keyframes example {
+            20%   {background-color:red; centert:0px; top:0px;}
+            40%  {background-color:y  violet; center:200px; top:0px;}
+            60%  {background-color:   azure; center:200px; top:0px;}
+            70%  {background-color:   orange; center: 200px; top:0px;}
+             80% {background-color:   green;  center:200px; top:0px;}
+            95%  {background-color:   blue; center:200px; top:0px;}
+            100%  {background-color: yellow; center:200px; top:0px;}
+            }
+            .animation5 {width: 100px;
+                height: 100px;
+                background-color: white;
+                position: relative;
+                animation-name: example;
+                animation-duration: 7s;
+                animation-delay: -3s;
+                }
+                
+                @keyframes example {
+                20%   {background-color:red; centert:0px;  left:200px;}
+                40%  {background-color:   violet; center:200px; left:0px;}
+                60%  {background-color:   azure; center:200px;  left:0px;}
+                70%  {background-color:  orange; center: 200px;  left:0px;}
+                 80% {background-color:  green;  center:200px;  left: 0px;}
+                95%  {background-color:  blue; center:200px;  left:0px;}
+                100%  {background-color:  yellow; center:200px;  top;0px}
+                }
+                .animation6 {width: 100px;
+                    height: 100px;
+                    background-color: white;
+                    position: relative;
+                    animation-name: example;
+                    animation-duration: 7s;
+                    animation-delay: -3s;
+                    }
+                    
+                    @keyframes example {
+                      
+                    20%   {background-color:red; centert:0px; top:0px;}
+                    40%  {background-color:  violet; center:200px; top:0px;}
+                    60%  {background-color:  azure; center:200px; top:0px;}
+                    70%  {background-color: orange; center: 200px; top:0px;}
+                     80% {background-color:  green;  center:200px; top:0px;}
+                    95%  {background-color: blue; center:200px; top:0px;}
+                    100%  {background-color:  yellow; center:200px; top:0px;}
+                    }
+            
+
+ 
